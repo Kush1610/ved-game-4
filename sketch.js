@@ -1250,9 +1250,9 @@ function winvisible(){
     gad6.visible=false
     gad7.visible=false
     treasure.visible=false
-    mouse.visible=false
-    gian.visible=false
-    box.visible=false
+   // mouse.visible=false
+   /// gian.visible=false
+   // box.visible=false
    // robo.visible=false
    // gad1Group.destroyEach()
    // gad2Group.destroyEach()
